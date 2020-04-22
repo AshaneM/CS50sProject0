@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(6, 6, 90);
+}
+table{
+    margin: 20px;
+}
+th{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: skyblue;
+}
+
+td{
+    color: skyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+}
+h2{
+    color: skyblue;
+}
+p{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: skyblue;
+}
